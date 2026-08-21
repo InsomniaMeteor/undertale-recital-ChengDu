@@ -2,10 +2,6 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>undertale音乐会成都专属</title>
-    <style>
-        body { font-family: Arial; text-align: center; padding: 50px; }
-    </style>
 </head>
 <body>
     <h1>欢迎乘坐undertale航班，祝各位旅客在音乐会玩得愉快！:)</h1>
